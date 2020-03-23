@@ -1,0 +1,16 @@
+{
+    "name": "sterner-stuff/wordpress-updates-manager",
+    "description": "A framework for registering and managing versioned theme and plugin updates.",
+    "authors": [
+        {
+            "name": "Ethan Clevenger",
+            "email": "ethan@sternerstuff.dev"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"SternerStuff\\WordPressUpdatesManager": "src"
+    	}
+    },
+    "require": {}
+}
